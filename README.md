@@ -3,8 +3,7 @@
 ## Information Obtained :
 - How many calories does the average McDonald's Value Meal Content?
 
-![11](https://user-images.githubusercontent.com/53082147/99807687-712d6a80-2b72-11eb-97de-9c1bc41de28b.PNG)
-
+![1](https://user-images.githubusercontent.com/35904444/102896540-24062680-4499-11eb-900c-e034685a7abd.PNG)
 
 
 
